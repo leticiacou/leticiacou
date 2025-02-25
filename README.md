@@ -1,3 +1,3 @@
-- 👋 I’m Letícia Couto
+- Letícia Couto
 - Javascript, HTML, CSS and SQL
 
