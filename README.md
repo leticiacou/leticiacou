@@ -1,16 +1,15 @@
-## Hi there 👋
+## Engenheiro de Software | Foco em Backend
 
-<!--
-**leticiacou/leticiacou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Letícia Couto! 👋
 
-Here are some ideas to get you started:
+Full-stack Developer | Java Enthusiast 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technologies & Tools
+- **Languages:** Java, TypeScript, JavaScript, Python
+- **Mobile:** React Native
+- **Automation:** n8n, REST APIs
+- **Database:** PostgreSQL, MySQL
+
+### 📫 How to reach me
+- **LinkedIn:** (https://www.linkedin.com/in/letícia-brandão-couto-311353313/)
+- **Email:** brandaocoutol@gmail.com
