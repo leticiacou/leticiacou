@@ -1,4 +1,4 @@
-## Engenheiro de Software | Foco em Backend
+## Engenheira de Software | Foco em Backend
 
 # Hi there, I'm Letícia Couto! 👋
 
